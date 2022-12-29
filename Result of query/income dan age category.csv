@@ -1,0 +1,19 @@
+"income_category","category_age","count"
+"$60K - $80K","Senior",3
+"$40K - $60K","Adults",14
+"Less than $40K","Adults",14
+"$80K - $120K","Middle Age",21
+"$40K - $60K","Senior",7
+"$60K - $80K","Adults",14
+"$40K - $60K","Middle Age",21
+"Unknown","Middle Age",21
+"$80K - $120K","Senior",3
+"Less than $40K","Senior",9
+"Unknown","Senior",8
+"$120K +","Adults",12
+"Unknown","Adults",14
+"$80K - $120K","Adults",12
+"Less than $40K","Middle Age",21
+"$120K +","Senior",2
+"$120K +","Middle Age",21
+"$60K - $80K","Middle Age",21

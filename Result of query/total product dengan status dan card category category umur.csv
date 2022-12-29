@@ -1,0 +1,21 @@
+count;status;card_category;category_age
+161;Attrited Customer;Blue;Adults
+515;Attrited Customer;Blue;Middle Age
+44;Attrited Customer;Blue;Senior
+4;Attrited Customer;Gold;Adults
+16;Attrited Customer;Gold;Middle Age
+5;Attrited Customer;Platinum;Middle Age
+12;Attrited Customer;Silver;Adults
+58;Attrited Customer;Silver;Middle Age
+3;Attrited Customer;Silver;Senior
+357;Existing Customer;Blue;Adults
+723;Existing Customer;Blue;Middle Age
+103;Existing Customer;Blue;Senior
+17;Existing Customer;Gold;Adults
+65;Existing Customer;Gold;Middle Age
+2;Existing Customer;Gold;Senior
+1;Existing Customer;Platinum;Adults
+13;Existing Customer;Platinum;Middle Age
+74;Existing Customer;Silver;Adults
+282;Existing Customer;Silver;Middle Age
+11;Existing Customer;Silver;Senior

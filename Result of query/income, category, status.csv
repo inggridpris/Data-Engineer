@@ -1,0 +1,37 @@
+"income_category","category_age","status","count"
+"Less than $40K","Adults","Attrited Customer",14
+"$120K +","Adults","Attrited Customer",7
+"$40K - $60K","Adults","Attrited Customer",12
+"Unknown","Adults","Attrited Customer",11
+"$80K - $120K","Adults","Attrited Customer",8
+"$60K - $80K","Adults","Attrited Customer",9
+"$120K +","Adults","Existing Customer",11
+"Less than $40K","Adults","Existing Customer",14
+"$60K - $80K","Adults","Existing Customer",14
+"$80K - $120K","Adults","Existing Customer",12
+"$40K - $60K","Adults","Existing Customer",14
+"Unknown","Adults","Existing Customer",14
+"$60K - $80K","Middle Age","Attrited Customer",21
+"$40K - $60K","Middle Age","Attrited Customer",21
+"Unknown","Middle Age","Attrited Customer",21
+"$80K - $120K","Middle Age","Attrited Customer",21
+"$120K +","Middle Age","Attrited Customer",20
+"Less than $40K","Middle Age","Attrited Customer",21
+"Unknown","Middle Age","Existing Customer",21
+"$60K - $80K","Middle Age","Existing Customer",21
+"Less than $40K","Middle Age","Existing Customer",21
+"$80K - $120K","Middle Age","Existing Customer",21
+"$120K +","Middle Age","Existing Customer",21
+"$40K - $60K","Middle Age","Existing Customer",21
+"$60K - $80K","Senior","Attrited Customer",3
+"$80K - $120K","Senior","Attrited Customer",1
+"Less than $40K","Senior","Attrited Customer",6
+"Unknown","Senior","Attrited Customer",5
+"$40K - $60K","Senior","Attrited Customer",3
+"$120K +","Senior","Attrited Customer",1
+"$80K - $120K","Senior","Existing Customer",3
+"$40K - $60K","Senior","Existing Customer",7
+"Unknown","Senior","Existing Customer",7
+"Less than $40K","Senior","Existing Customer",8
+"$120K +","Senior","Existing Customer",2
+"$60K - $80K","Senior","Existing Customer",3
